@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+## Screenshots
+ 
 
-This project is a starting point for a Flutter application.
+  |Home|Search|Details|WhatchList 1|WhatchList2|
+|---------|---------|---------|---------|---------|
+|<img src="https://github.com/Mina-Zarif/movies/blob/master/screenshots-movies/cinema%20app.jpg" /> |<img src="https://github.com/Mina-Zarif/movies/blob/master/screenshots-movies/screen%201.jpg" /> |<img src="https://github.com/Mina-Zarif/movies/blob/master/screenshots-movies/screen%202.jpg" />|<img src="https://github.com/Mina-Zarif/movies/blob/master/screenshots-movies/screen%203.jpg" />|<img src="https://github.com/Mina-Zarif/movies/blob/master/screenshots-movies/screen%204.jpg"/>|
+ 
 
-A few resources to get you started if this is your first Flutter project:
+ 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
